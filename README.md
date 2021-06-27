@@ -10,6 +10,7 @@ decentralized data stores with a focus on communication.
   - [Single Purpose Bots](#single-purpose-bots)
 - [Bridges](#bridges)
 - [Clients](#clients)
+- [Collaborative Documents](#collaborative-documents)
 - [Comments](#comments)
 - [Encryption](#encryption)
 - [Research](#research)
@@ -38,6 +39,14 @@ Some bots are quick scripts tailored to a specific purpose.
   `AGPL-3.0` `Flutter`
 - [Ditto](https://gitlab.com/ditto-chat/ditto) - React Native client for iOS and
   Android. ([Chat](#dittochat:matrix.org)) `GPL-3.0` `JavaScript`
+
+## Collaborative Documents
+
+- [matrix-notepad](https://matrix-notepad.kb1rd.net) - A buggy way to
+  collaborate on text documents using the Matrix protocol.
+  ([Repo](https://github.com/KB1RD/matrix-notepad),
+  [Chat](https://matrix.to/#/#matrix-collaboration:kb1rd.net)) `GPL-3.0`
+  `JavaScript`
 
 ## Comments
 
