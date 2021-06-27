@@ -57,6 +57,13 @@ Some bots are quick scripts tailored to a specific purpose.
 
 ## Encryption
 
+- [Olm](https://gitlab.matrix.org/matrix-org/olm) - 
+  Implementation of the Olm and Megolm cryptographic ratchets.
+  `Apache-2.0` `C++`
+- [pantalaimon](https://github.com/matrix-org/pantalaimon) - 
+  E2EE aware proxy daemon for Matrix clients.
+  ([Chat](https://matrix.to/#/#pantalaimon:matrix.org)) `Apache-2.0` `Python`
+
 ## Research
 
 Research papers and similar documents studying something related to Matrix.
