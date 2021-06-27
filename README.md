@@ -10,6 +10,7 @@ decentralized data stores with a focus on communication.
   - [Single Purpose Bots](#single-purpose-bots)
 - [Bridges](#bridges)
 - [Clients](#clients)
+- [Comments](#comments)
 - [Encryption](#encryption)
 - [Research](#research)
 - [SDKs](#sdks)
