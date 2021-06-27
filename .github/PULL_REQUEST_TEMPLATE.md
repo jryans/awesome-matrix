@@ -8,3 +8,6 @@
 ```
 - [Name](https://example.com/) - Short description, sentence case. ([Repo](https://github.com/foo/bar), [Chat](https://matrix.to/#/#room:example.com)) `License` `Language`
 ```
+- [ ] Append to the bottom of a section
+- [ ] Wrap lines to 80 characters
+- [ ] Use [SPDX license identifiers](https://spdx.org/licenses/) when possible
