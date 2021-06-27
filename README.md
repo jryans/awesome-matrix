@@ -38,7 +38,7 @@ Some bots are quick scripts tailored to a specific purpose.
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 - [Ditto](https://gitlab.com/ditto-chat/ditto) - React Native client for iOS and
-  Android. ([Chat](#dittochat:matrix.org)) `GPL-3.0` `JavaScript`
+  Android. ([Chat](https://matrix.to/#/#dittochat:matrix.org)) `GPL-3.0` `JavaScript`
 
 ## Collaborative Documents
 
