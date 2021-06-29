@@ -29,7 +29,7 @@ Some bots are quick scripts tailored to a specific purpose.
 
 ## Clients
 
-For a comprehensive list of with many more clients along with screenshots, the
+For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 - [Element](https://element.io) - A glossy client with an emphasis on
