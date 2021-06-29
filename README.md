@@ -102,6 +102,8 @@ Various other directories and lists of Matrix things.
   Comprehensive directory of various Matrix projects.
 - [Matrix clients table](https://matrix.org/clients/) - Thorough list of many
   more Matrix clients along with screenshots.
+- [@rodolpheh's awesome-matrix](https://github.com/rodolpheh/awesome-matrix) -
+  An earlier effort at assembling awesome Matrix projects.
 
 ## Contribute
 
