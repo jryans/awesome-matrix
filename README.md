@@ -29,6 +29,9 @@ Some bots are quick scripts tailored to a specific purpose.
 
 ## Clients
 
+For a comprehensive list of with many more clients along with screenshots, the
+[Matrix clients table](https://matrix.org/clients/) is a good resource.
+
 - [Element](https://element.io) - A glossy client with an emphasis on
   performance and usability. ([Web](https://github.com/vector-im/element-web),
   [iOS](https://github.com/vector-im/element-ios),
@@ -97,6 +100,8 @@ Various other directories and lists of Matrix things.
 
 - [Try Matrix Now](https://matrix.org/docs/projects/try-matrix-now) -
   Comprehensive directory of various Matrix projects.
+- [Matrix clients table](https://matrix.org/clients/) - Thorough list of many
+  more Matrix clients along with screenshots.
 
 ## Contribute
 
