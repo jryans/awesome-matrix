@@ -4,6 +4,9 @@ A curated list of things related to the [Matrix](https://matrix.org/) ecosystem,
 including software, research, etc. Matrix is an open protocol for secure,
 decentralized data stores with a focus on communication.
 
+This list hopes to become a good place for finding projects that may not have an
+obvious category to fit into on the matrix.org website.
+
 ## Contents
 
 - [Bots](#bots)
