@@ -10,6 +10,7 @@ obvious category to fit into on the matrix.org website.
 ## Contents
 
 - [Bots](#bots)
+  - [Multi Purpose Bot Platforms](#multi-purpose-bot-platforms)
   - [Single Purpose Bots](#single-purpose-bots)
 - [Bridges](#bridges)
 - [Clients](#clients)
@@ -23,6 +24,12 @@ obvious category to fit into on the matrix.org website.
 ---
 
 ## Bots
+
+### Multi Purpose Bot Platforms
+
+- [maubot](https://maubot.xyz) - A plugin-based Matrix bot system with over 30
+  plugins for all sorts of things. ([Repo](https://github.com/maubot/maubot),
+  [Chat](https://matrix.to/#/#maubot:maunium.net)) `AGPL-3.0` `Python`
 
 ### Single Purpose Bots
 
