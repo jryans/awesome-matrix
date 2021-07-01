@@ -81,12 +81,17 @@ For a comprehensive list with many more clients along with screenshots, the
 
 Research papers and similar documents studying something related to Matrix.
 
+### 2021
+
 - Florian Jacob, Carolin Beer, Norbert Henze, Hannes Hartenstein. [Analysis of
   the Matrix Event Graph Replicated Data
-  Type](https://arxiv.org/abs/2011.06488). 2021.
+  Type](https://arxiv.org/abs/2011.06488).
+
+### 2020
+
 - Florian Jacob, Luca Becker, Jan Grashöfer, Hannes Hartenstein. [Matrix
   Decomposition: Analysis of an Access Control Approach on Transaction-based
-  DAGs without Finality](https://dl.acm.org/doi/10.1145/3381991.3395399). 2020.
+  DAGs without Finality](https://dl.acm.org/doi/10.1145/3381991.3395399).
 
 ## SDKs
 
