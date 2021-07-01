@@ -93,6 +93,12 @@ Research papers and similar documents studying something related to Matrix.
   Decomposition: Analysis of an Access Control Approach on Transaction-based
   DAGs without Finality](https://dl.acm.org/doi/10.1145/3381991.3395399).
 
+### 2019
+
+- Florian Jacob, Jan Grashöfer, Hannes Hartenstein. [A Glimpse of the Matrix:
+  Scalability Issues of a New Message-Oriented Data Synchronization
+  Middleware](https://arxiv.org/abs/1910.06295).
+
 ## SDKs
 
 ## Servers
