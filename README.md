@@ -30,9 +30,8 @@ obvious category to fit into on the matrix.org website.
 - [maubot](https://maubot.xyz) - A plugin-based Matrix bot system with over 30
   plugins for all sorts of things. ([Repo](https://github.com/maubot/maubot),
   [Chat](https://matrix.to/#/#maubot:maunium.net)) `AGPL-3.0` `Python`
-
-- [opsdroid](https://opsdroid.dev/) - A flexible multi-platform chat bot 
-  framework with matrix support including end to end encryption. `Apache-2.0` `Python`
+- [opsdroid](https://opsdroid.dev/) - A flexible multi-platform chat bot
+  framework with Matrix support including end to end encryption. `Apache-2.0` `Python`
 
 ### Single Purpose Bots
 
