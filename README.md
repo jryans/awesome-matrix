@@ -83,6 +83,9 @@ Research papers and similar documents studying something related to Matrix.
 
 ### 2021
 
+- Matthew Weidner, Martin Kleppmann, Daniel Hugenroth, Alastair R. Beresford.
+  [Key Agreement for Decentralized Secure Group Messaging with Strong Security
+  Guarantees](https://eprint.iacr.org/2020/1281).
 - Florian Jacob, Carolin Beer, Norbert Henze, Hannes Hartenstein. [Analysis of
   the Matrix Event Graph Replicated Data
   Type](https://arxiv.org/abs/2011.06488).
@@ -92,12 +95,25 @@ Research papers and similar documents studying something related to Matrix.
 - Florian Jacob, Luca Becker, Jan Grashöfer, Hannes Hartenstein. [Matrix
   Decomposition: Analysis of an Access Control Approach on Transaction-based
   DAGs without Finality](https://dl.acm.org/doi/10.1145/3381991.3395399).
+- Martin Kleppmann, Heidi Howard. [Byzantine Eventual Consistency and the
+  Fundamental Limits of Peer-to-Peer
+  Databases](https://arxiv.org/abs/2012.00472).
 
 ### 2019
 
 - Florian Jacob, Jan Grashöfer, Hannes Hartenstein. [A Glimpse of the Matrix:
   Scalability Issues of a New Message-Oriented Data Synchronization
   Middleware](https://arxiv.org/abs/1910.06295).
+- Matthew Weidner. [Group Messaging for Secure Asynchronous
+  Collaboration](https://mattweidner.com/acs-dissertation.pdf).
+- Quirin Heiler, Richard von Seck, Jonas Jelten. [Peer-to-Peer
+  Matrix](https://doi.org/10.2313/NET-2019-10-1_08).
+
+### 2016
+
+- Ksenia Ermoshina, Francesca Musiani, Harry Halpin. [End-to-End Encrypted
+  Messaging Protocols: An
+  Overview](https://doi.org/10.1007/978-3-319-45982-0_22).
 
 ## SDKs
 
