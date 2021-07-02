@@ -17,6 +17,7 @@ obvious category to fit into on the matrix.org website.
 - [Collaborative Documents](#collaborative-documents)
 - [Comments](#comments)
 - [Encryption](#encryption)
+- [Factoids](#factoids)
 - [Research](#research)
 - [SDKs](#sdks)
 - [Servers](#servers)
@@ -81,6 +82,12 @@ For a comprehensive list with many more clients along with screenshots, the
 - [pantalaimon](https://github.com/matrix-org/pantalaimon) - 
   E2EE aware proxy daemon for Matrix clients.
   ([Chat](https://matrix.to/#/#pantalaimon:matrix.org)) `Apache-2.0` `Python`
+
+## Factoids
+
+- [Matrix Limits](https://github.com/jryans/matrix-limits) - A collection of
+  various limits and related factoids about the Matrix specification and
+  implementations.
 
 ## Research
 
