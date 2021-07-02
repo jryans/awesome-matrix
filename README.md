@@ -31,7 +31,10 @@ obvious category to fit into on the matrix.org website.
   plugins for all sorts of things. ([Repo](https://github.com/maubot/maubot),
   [Chat](https://matrix.to/#/#maubot:maunium.net)) `AGPL-3.0` `Python`
 - [opsdroid](https://opsdroid.dev/) - A flexible multi-platform chat bot
-  framework with Matrix support including end to end encryption. `Apache-2.0` `Python`
+  framework with Matrix support including end to end encryption.
+  ([Repo](https://github.com/opsdroid/opsdroid),
+  [Chat](https://matrix.to/#/#opsdroid-general:matrix.org)) `Apache-2.0`
+  `Python`
 
 ### Single Purpose Bots
 
