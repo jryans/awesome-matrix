@@ -9,6 +9,7 @@ obvious category to fit into on the matrix.org website.
 
 ## Contents
 
+- [Blogs](#blogs)
 - [Bots](#bots)
   - [Multi Purpose Bot Platforms](#multi-purpose-bot-platforms)
   - [Single Purpose Bots](#single-purpose-bots)
@@ -24,6 +25,14 @@ obvious category to fit into on the matrix.org website.
 - [Widgets](#widgets)
 
 ---
+
+## Blogs
+
+- [matrix-blog](https://evolved.systems/hosting-a-blog-on-matrix/) - A library
+  to interact with a Matrix server in a way that treats it as a backend for a
+  blog. ([Repo](https://github.com/evoL/matrix-blog),
+  [Chat](https://matrix.to/#/#blog.hosting-a-blog-on-matrix:evolved.systems))
+  `MIT` `TypeScript`
 
 ## Bots
 
