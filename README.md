@@ -76,6 +76,9 @@ For a comprehensive list with many more clients along with screenshots, the
   ([Repo](https://github.com/KB1RD/matrix-notepad),
   [Chat](https://matrix.to/#/#matrix-collaboration:kb1rd.net)) `GPL-3.0`
   `JavaScript`
+- [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
+  powered by Matrix. ([Repo](https://github.com/toger5/TheBoard)) `MIT`
+  `JavaScript`
 
 ## Comments
 
