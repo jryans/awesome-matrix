@@ -68,6 +68,8 @@ For a comprehensive list with many more clients along with screenshots, the
   `AGPL-3.0` `Flutter`
 - [Ditto](https://gitlab.com/ditto-chat/ditto) - React Native client for iOS and
   Android. ([Chat](https://matrix.to/#/#dittochat:matrix.org)) `GPL-3.0` `JavaScript`
+- [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) -
+  Embeddable Matrix Chatbox
 
 ## Collaborative Documents
 
