@@ -22,6 +22,7 @@ obvious category to fit into on the matrix.org website.
 - [Research](#research)
 - [SDKs](#sdks)
 - [Servers](#servers)
+- [Testing](#testing)
 - [Widgets](#widgets)
 
 ---
@@ -155,6 +156,12 @@ Research papers and similar documents studying something related to Matrix.
 - [Conduit](https://conduit.rs) - A simple, fast and reliable chat server
   written in Rust. ([Repo](https://gitlab.com/famedly/conduit),
   [Chat](https://matrix.to/#/#conduit:matrix.org)) `Apache-2.0` `Rust`
+
+## Testing
+
+- [Patience](https://github.com/matrix-org/patience) - Full stack integration
+  testing for Matrix clients and servers.
+  ([Chat](https://matrix.to/#/#matrix-patience:matrix.org)) `Apache-2.0` `TypeScript`
 
 ## Widgets
 
