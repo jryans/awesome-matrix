@@ -71,7 +71,7 @@ For a comprehensive list with many more clients along with screenshots, the
   Android. ([Chat](https://matrix.to/#/#dittochat:matrix.org)) `GPL-3.0` `JavaScript`
 - [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) -
   Embeddable Matrix chatbox.
-- [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A Client for GNOME written in Rust.
+- [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A client for GNOME written in Rust. `GPL-3.0` `Rust`
 
 ## Collaborative Documents
 
