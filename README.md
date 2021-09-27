@@ -70,7 +70,8 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Ditto](https://gitlab.com/ditto-chat/ditto) - React Native client for iOS and
   Android. ([Chat](https://matrix.to/#/#dittochat:matrix.org)) `GPL-3.0` `JavaScript`
 - [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) -
-  Embeddable Matrix chatbox
+  Embeddable Matrix chatbox.
+- [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A client for GNOME written in Rust. `GPL-3.0` `Rust`
 
 ## Collaborative Documents
 
