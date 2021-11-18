@@ -141,6 +141,12 @@ Research papers and similar documents studying something related to Matrix.
 - Quirin Heiler, Richard von Seck, Jonas Jelten. [Peer-to-Peer
   Matrix](https://doi.org/10.2313/NET-2019-10-1_08).
 
+### 2018
+
+- Katriel Cohn-Gordon, Cas Cremers, Luke Garratt, Jon Millican, Kevin Milner.
+  [On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong
+  Security Guarantees](https://dl.acm.org/doi/10.1145/3243734.3243747).
+
 ### 2016
 
 - Ksenia Ermoshina, Francesca Musiani, Harry Halpin. [End-to-End Encrypted
