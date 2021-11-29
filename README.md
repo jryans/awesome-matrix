@@ -155,6 +155,11 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
+- [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) - A modular
+  SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
+  a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
+  `Apache-2.0` `Rust`
+
 ## Servers
 
 - [Synapse](https://github.com/matrix-org/synapse) - The reference homeserver.
