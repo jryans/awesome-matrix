@@ -83,6 +83,9 @@ For a comprehensive list with many more clients along with screenshots, the
   ([Repo](https://github.com/KB1RD/matrix-notepad),
   [Chat](https://matrix.to/#/#matrix-collaboration:kb1rd.net)) `GPL-3.0`
   `JavaScript`
+- [Populus-Viewer](https://opentower.github.io/populus-viewer/) - Social Annotation of PDFs,
+  powered by Matrix. ([Repo](https://github.com/opentower/populus-viewer),
+  [Chat](https://matrix.to/#/#opentower:matrix.org) `GPL-3.0`
 - [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
   powered by Matrix. ([Repo](https://github.com/toger5/TheBoard),
   [Chat](https://matrix.to/#/#TheBoard:matrix.org)) `MIT` `JavaScript`
