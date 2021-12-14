@@ -31,9 +31,9 @@ obvious category to fit into on the matrix.org website.
 ## Annotation
 
 - [Populus-Viewer](https://opentower.github.io/populus-viewer/) - Social
-  Annotation of PDFs, powered by Matrix.
+  annotation of PDFs, powered by Matrix.
   ([Repo](https://github.com/opentower/populus-viewer),
-  [Chat](https://matrix.to/#/#opentower:matrix.org)) `GPL-3.0`
+  [Chat](https://matrix.to/#/#opentower:matrix.org)) `GPL-3.0` `JavaScript`
 
 ## Blogs
 
