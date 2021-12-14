@@ -9,6 +9,7 @@ obvious category to fit into on the matrix.org website.
 
 ## Contents
 
+- [Annotation](#annotation)
 - [Blogs](#blogs)
 - [Bots](#bots)
   - [Multi Purpose Bot Platforms](#multi-purpose-bot-platforms)
@@ -26,6 +27,13 @@ obvious category to fit into on the matrix.org website.
 - [Widgets](#widgets)
 
 ---
+
+## Annotation
+
+- [Populus-Viewer](https://opentower.github.io/populus-viewer/) - Social
+  Annotation of PDFs, powered by Matrix.
+  ([Repo](https://github.com/opentower/populus-viewer),
+  [Chat](https://matrix.to/#/#opentower:matrix.org)) `GPL-3.0`
 
 ## Blogs
 
@@ -86,10 +94,6 @@ For a comprehensive list with many more clients along with screenshots, the
 - [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
   powered by Matrix. ([Repo](https://github.com/toger5/TheBoard),
   [Chat](https://matrix.to/#/#TheBoard:matrix.org)) `MIT` `JavaScript`
-- [Populus-Viewer](https://opentower.github.io/populus-viewer/) - Social 
-  Annotation of PDFs, powered by Matrix. 
-  ([Repo](https://github.com/opentower/populus-viewer),
-  [Chat](https://matrix.to/#/#opentower:matrix.org)) `GPL-3.0`
 
 ## Comments
 
