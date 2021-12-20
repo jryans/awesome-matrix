@@ -34,6 +34,11 @@ obvious category to fit into on the matrix.org website.
   annotation of PDFs, powered by Matrix.
   ([Repo](https://github.com/opentower/populus-viewer),
   [Chat](https://matrix.to/#/#opentower:matrix.org)) `GPL-3.0` `JavaScript`
+- [Matrix Highlight](https://github.com/DanilaFe/matrix-highlight) -
+  Matrix-based collaborative web annotation.
+  ([Repo](https://github.com/DanilaFe/matrix-highlight),
+  [Chat](https://matrix.to/#/#matrix-highlight:matrix.danilafe.com))
+  `Apache-2.0` `TypeScript`
 
 ## Blogs
 
