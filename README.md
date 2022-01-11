@@ -102,6 +102,9 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Collabs](https://github.com/composablesys/collabs/tree/master/collabs#readme) -
   A collections library for collaborative data structures. `Apache-2.0`
   `TypeScript`
+- [Matrix CRDT](https://github.com/yousefED/matrix-crdt) - Integrates CRDTs like
+  [Yjs](https://github.com/yjs/yjs) with Matrix for storage and sync. `MPL-2.0`
+  `TypeScript`
 
 ## Comments
 
