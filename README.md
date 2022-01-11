@@ -99,6 +99,9 @@ For a comprehensive list with many more clients along with screenshots, the
 - [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
   powered by Matrix. ([Repo](https://github.com/toger5/TheBoard),
   [Chat](https://matrix.to/#/#TheBoard:matrix.org)) `MIT` `JavaScript`
+- [Collabs](https://github.com/composablesys/collabs/tree/master/collabs#readme) -
+  A collections library for collaborative data structures. `Apache-2.0`
+  `TypeScript`
 
 ## Comments
 
