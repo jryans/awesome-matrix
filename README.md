@@ -88,8 +88,6 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A client for GNOME
   written in Rust. ([Chat](https://matrix.to/#/#fractal:gnome.org)) `GPL-3.0`
   `Rust`
-- [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix/blob/main/SimpleMatrixClient.ts) - 
-  Lightweight, zero dep client written in TypeScript. `MIT` `TypeScript`
 
 ## Collaborative Documents
 
@@ -180,6 +178,8 @@ Research papers and similar documents studying something related to Matrix.
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
+- [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix#heusalagroupfihgmatrix) - 
+  Lightweight, zero dep client library written in TypeScript. `MIT` `TypeScript`
 
 ## Servers
 
