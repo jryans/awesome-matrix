@@ -88,8 +88,6 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A client for GNOME
   written in Rust. ([Chat](https://matrix.to/#/#fractal:gnome.org)) `GPL-3.0`
   `Rust`
-- [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix/blob/main/SimpleMatrixClient.ts) - 
-  Lightweight, zero dep client written in TypeScript. `MIT` `TypeScript`
 
 ## Collaborative Documents
 
