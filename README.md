@@ -88,6 +88,8 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A client for GNOME
   written in Rust. ([Chat](https://matrix.to/#/#fractal:gnome.org)) `GPL-3.0`
   `Rust`
+- [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix/blob/main/SimpleMatrixClient.ts) - 
+  Lightweight, zero dep client written in TypeScript. `MIT` `TypeScript`
 
 ## Collaborative Documents
 
@@ -190,6 +192,9 @@ Research papers and similar documents studying something related to Matrix.
 - [Conduit](https://conduit.rs) - A simple, fast and reliable chat server
   written in Rust. ([Repo](https://gitlab.com/famedly/conduit),
   [Chat](https://matrix.to/#/#conduit:matrix.org)) `Apache-2.0` `Rust`
+- [hghs](https://github.com/heusalagroup/hghs#heusalagrouphghs) - Lightweight 
+  Matrix homeserver for special purposes which compiles as a single file with
+  zero dependencies, except NodeJS. `MIT` `TypeScript`
 
 ## Testing
 
