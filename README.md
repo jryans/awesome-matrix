@@ -180,6 +180,8 @@ Research papers and similar documents studying something related to Matrix.
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
+- [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix#heusalagroupfihgmatrix) - 
+  Lightweight, zero dep client library written in TypeScript. `MIT` `TypeScript`
 
 ## Servers
 
