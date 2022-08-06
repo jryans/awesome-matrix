@@ -199,9 +199,10 @@ Research papers and similar documents studying something related to Matrix.
 
 ## Social Media
 
-- [Circles](https://www.kombuchaprivacy.com/circles/) - E2E encrypted social networking 
-built on Matrix. Safe, private sharing for your friends, family, and community. 
-([Repo](https://gitlab.futo.org/circles/circles-ios)) `AGPL` `Swift`
+- [Circles](https://www.kombuchaprivacy.com/circles/) - E2E encrypted social
+  networking built on Matrix. Safe, private sharing for your friends, family,
+  and community. ([Repo](https://gitlab.futo.org/circles/circles-ios))
+  `AGPL-3.0-only` `Swift`
 
 ## Testing
 
