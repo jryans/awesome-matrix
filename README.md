@@ -23,6 +23,7 @@ obvious category to fit into on the matrix.org website.
 - [Research](#research)
 - [SDKs](#sdks)
 - [Servers](#servers)
+- [Social Media](#social-media)
 - [Testing](#testing)
 - [Widgets](#widgets)
 
@@ -195,6 +196,11 @@ Research papers and similar documents studying something related to Matrix.
 - [hghs](https://github.com/heusalagroup/hghs#heusalagrouphghs) - Lightweight 
   Matrix homeserver for special purposes which compiles as a single file with
   zero dependencies, except NodeJS. `MIT` `TypeScript`
+
+## Social Media
+
+- [Circles](https://www.kombuchaprivacy.com/circles/) - E2E encrypted social networking 
+built on Matrix. Safe, private sharing for your friends, family, and community.`AGPL` `Swift`
 
 ## Testing
 
