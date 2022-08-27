@@ -203,6 +203,9 @@ Research papers and similar documents studying something related to Matrix.
   networking built on Matrix. Safe, private sharing for your friends, family,
   and community. ([Repo](https://gitlab.futo.org/circles/circles-ios))
   `AGPL-3.0-only` `Swift`
+- [MinesTRIX](https://minestrix.henri2h.fr/) - A privacy focused social media 
+  based on matrix. ([Repo](https://gitlab.com/minestrix/minestrix-flutter))
+  `AGPL-3.0-or-later` `Flutter`
 
 ## Testing
 
