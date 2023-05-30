@@ -17,6 +17,7 @@ obvious category to fit into on the matrix.org website.
 - [Bridges](#bridges)
 - [Clients](#clients)
 - [Collaborative Documents](#collaborative-documents)
+- [Collaborative Maps](#collaborative-maps)
 - [Comments](#comments)
 - [Encryption](#encryption)
 - [Factoids](#factoids)
@@ -106,6 +107,16 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Matrix CRDT](https://github.com/yousefED/matrix-crdt) - Integrates CRDTs like
   [Yjs](https://github.com/yjs/yjs) with Matrix for storage and sync. `MPL-2.0`
   `TypeScript`
+  
+## Collaborative Maps
+
+- [ODIN](https://odin.syncpoint.io) - ODIN is an [Open Source](https://github.com/syncpoint/ODINv2)
+  Defence Command and Control Information System (C2IS). It's built on [Open Layers](https://openlayers.org),
+  React and [Electron](https://electronjs.org) and uses Matrix in order to replicate the state of the
+  symbols (MIL-STD-2525C) drawn on the map.
+  Since Matrix' general purpose Javascript SDK does not match the needs of ODIN (i.e. focus 
+  synchronisation on a selected space and its rooms) there is a bespoke [Matrix Client API]
+  (https://github.com/syncpoint/matrix-client-api).
 
 ## Comments
 
