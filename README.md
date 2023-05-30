@@ -110,13 +110,12 @@ For a comprehensive list with many more clients along with screenshots, the
   
 ## Collaborative Maps
 
-- [ODIN](https://odin.syncpoint.io) - ODIN is an [Open Source](https://github.com/syncpoint/ODINv2)
+- [ODIN](https://odin.syncpoint.io) - A [Open Source](https://github.com/syncpoint/ODINv2)
   Defence Command and Control Information System (C2IS). It's built on [Open Layers](https://openlayers.org),
   React and [Electron](https://electronjs.org) and uses Matrix in order to replicate the state of the
   symbols (MIL-STD-2525C) drawn on the map.
   Since Matrix' general purpose Javascript SDK does not match the needs of ODIN (i.e. focus 
-  synchronisation on a selected space and its rooms) there is a bespoke [Matrix Client API]
-  (https://github.com/syncpoint/matrix-client-api).
+  synchronisation on a selected space and its rooms) there is a bespoke [Matrix Client API](https://github.com/syncpoint/matrix-client-api).
 
 ## Comments
 
