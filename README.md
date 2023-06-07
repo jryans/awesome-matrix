@@ -110,11 +110,15 @@ For a comprehensive list with many more clients along with screenshots, the
   
 ## Collaborative Maps
 
-- [ODIN](https://odin.syncpoint.io) - Defence Command and Control Information System (C2IS):
-  It's built on [Open Layers](https://openlayers.org), React and [Electron](https://electronjs.org)
-  and uses Matrix in order to replicate the state of the symbols (MIL-STD-2525C) drawn on the map.
-  ODIN is an offline-first application and uses LevelDB to persist state locally. At the lowest 
-  level LevelDB operations are replicated. ([Repo](https://github.com/syncpoint/ODINv2), [Chat](https://matrix.to/#/#ODIN.Community:syncpoint.io))`AGPL-3.0` `JavaScript`
+- [ODIN](https://odin.syncpoint.io) - Command and Control Information System
+  (C2IS) built on [Open Layers](https://openlayers.org), React, and
+  [Electron](https://electronjs.org). Uses Matrix in order to replicate the
+  state of the symbols (MIL-STD-2525C) drawn on the map. ODIN is an
+  offline-first application and uses LevelDB to persist state locally. At the
+  lowest level LevelDB operations are replicated.
+  ([Repo](https://github.com/syncpoint/ODINv2),
+  [Chat](https://matrix.to/#/#ODIN.Community:syncpoint.io)) `AGPL-3.0`
+  `JavaScript`
 
 ## Comments
 
@@ -190,8 +194,10 @@ Research papers and similar documents studying something related to Matrix.
   `Apache-2.0` `Rust`
 - [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix#heusalagroupfihgmatrix) - 
   Lightweight, zero dep client library written in TypeScript. `MIT` `TypeScript`
-- [Matrix Client API](https://github.com/syncpoint/matrix-client-api) - A bespoke and well focused
-  SDK for [ODIN](https://github.com/syncpoint/ODINv2). Since it's lightweight and well structured it might be useful for beginners to explore how the Matrix   API works. `MIT` `JavaScript`
+- [Matrix Client API](https://github.com/syncpoint/matrix-client-api) - A
+  bespoke and well focused SDK for [ODIN](https://github.com/syncpoint/ODINv2).
+  Lightweight and well-structured; may be useful for beginners to explore how
+  the Matrix API works. `MIT` `JavaScript`
 
 ## Servers
 
