@@ -115,7 +115,7 @@ For a comprehensive list with many more clients along with screenshots, the
   It's built on [Open Layers](https://openlayers.org), React and [Electron](https://electronjs.org)
   and uses Matrix in order to replicate the state of the symbols (MIL-STD-2525C) drawn on the map.
   ODIN is an offline-first application and uses LevelDB to persist state locally. At the lowest 
-  level LevelDB operations are replicated. `AGPL-3.0` `Javascript`
+  level LevelDB operations are replicated. `AGPL-3.0` `JavaScript`
   Since Matrix' general purpose Javascript SDK does not match the needs of ODIN (i.e. focus 
   synchronisation on a selected space and its rooms) there is a bespoke [Matrix Client API](https://github.com/syncpoint/matrix-client-api). `MIT` `Javascript`
 
