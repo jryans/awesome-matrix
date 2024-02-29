@@ -244,7 +244,7 @@ Research papers and similar documents studying something related to Matrix.
 
 Various other directories and lists of Matrix things.
 
-- [Try Matrix Now](https://matrix.org/docs/projects/try-matrix-now) -
+- [Ecosystem](https://matrix.org/ecosystem/) -
   Comprehensive directory of various Matrix projects.
 - [Matrix clients table](https://matrix.org/clients/) - Thorough list of many
   more Matrix clients along with screenshots.
