@@ -79,7 +79,7 @@ For a comprehensive list with many more clients along with screenshots, the
   [iOS](https://github.com/vector-im/element-ios),
   [Android](https://github.com/vector-im/element-android)) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-- [FluffyChat](https://gitlab.com/famedly/fluffychat) - Cute instant messaging
+- [FluffyChat](https://github.com/krille-chan/fluffychat) - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 - [Ditto](https://gitlab.com/ditto-chat/ditto) - React Native client for iOS and
