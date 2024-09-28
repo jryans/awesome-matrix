@@ -237,6 +237,10 @@ Research papers and similar documents studying something related to Matrix.
   `Apache-2.0` `TypeScript`
 - [matrix-widget-debug](https://github.com/turt2live/matrix-widget-debug) - Test
   widget for validating clients and `matrix-widget-api`. `Apache-2.0` `JavaScript`
+- [AlexGames](https://github.com/alexbarry/AlexGames) - A simple board games
+  web app that works as a Matrix widget.
+  ([Chat](https://matrix.to/#/#alexgames:matrix.org)) `AGPL-3.0-only`
+  `Lua`/`JavaScript`/`Rust`/`C`
 
 ---
 
