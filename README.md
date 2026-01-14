@@ -203,6 +203,10 @@ Research papers and similar documents studying something related to Matrix.
 
 - [Synapse](https://github.com/matrix-org/synapse) - The reference homeserver.
   ([Chat](https://matrix.to/#/#synapse:matrix.org)) `Apache-2.0` `Python`
+- [Continuwuity](https://continuwuity.org/) - The community driven continuation
+  of conduwuit & Conduit, focusing on user experience and new features.
+  ([Repo](https://forgejo.ellis.link/continuwuation/continuwuity),
+  [Chat](https://matrix.to/#/#continuwuity:continuwuity.org)) `Apache-2.0` `Rust`
 - [Dendrite](https://github.com/matrix-org/dendrite) - A second-generation
   Matrix homeserver written in Go. It intends to provide an efficient, reliable
   and scalable alternative. ([Chat](https://matrix.to/#/#dendrite:matrix.org))
