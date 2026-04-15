@@ -67,6 +67,11 @@ obvious category to fit into on the matrix.org website.
 
 Some bots are quick scripts tailored to a specific purpose.
 
+- [matrix-shopsavvy-bot](https://github.com/shopsavvy/matrix-shopsavvy-bot) -
+  Product search and price comparison bot for Matrix rooms. Look up products
+  by barcode, name, or URL and get real-time pricing from thousands of retailers.
+  ([Repo](https://github.com/shopsavvy/matrix-shopsavvy-bot))
+  `MIT` `TypeScript`
 - [matrix-soundboard](https://github.com/Linuxifyy/matrix-soundboard) - Self-hosted
   web soundboard that plays audio directly into Element Call (Matrix RTC) voice/video
   calls via LiveKit. Multi-user control, live sync via SSE, file upload, and
