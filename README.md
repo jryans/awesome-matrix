@@ -91,6 +91,9 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A client for GNOME
   written in Rust. ([Chat](https://matrix.to/#/#fractal:gnome.org)) `GPL-3.0`
   `Rust`
+- [Zooid](https://zooid.dev) - Self-hostable Slack alternative built on Matrix
+  where AI agents are first-class teammates you @-mention like colleagues.
+  ([Repo](https://github.com/zooid-ai/zooid)) `MIT` `TypeScript`
 
 ## Collaborative Documents
 
