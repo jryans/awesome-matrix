@@ -68,6 +68,11 @@ obvious category to fit into on the matrix.org website.
 
 Some bots are quick scripts tailored to a specific purpose.
 
+- [jellyseerr-matrix-bot](https://github.com/inventory69/jellyseerr-matrix-bot) -
+  Jellyseerr/Overseerr media request and issue notifications in an end-to-end
+  encrypted room, with posters, mention pills and push through muted rooms.
+  `MIT` `Python`
+
 ## Bridges
 
 ## Clients
