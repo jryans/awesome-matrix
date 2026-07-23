@@ -208,7 +208,6 @@ Research papers and similar documents studying something related to Matrix.
 - [matrix.py](https://github.com/Code-Society-Lab/matrixpy) - A simple, developer-friendly
   library to create powerful Matrix bots. `MIT` `Python`
 
-
 ## Servers
 
 - [Synapse](https://github.com/matrix-org/synapse) - The reference homeserver.
