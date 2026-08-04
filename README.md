@@ -205,6 +205,8 @@ Research papers and similar documents studying something related to Matrix.
   bespoke and well focused SDK for [ODIN](https://github.com/syncpoint/ODINv2).
   Lightweight and well-structured; may be useful for beginners to explore how
   the Matrix API works. `MIT` `JavaScript`
+- [matrix.py](https://github.com/Code-Society-Lab/matrixpy) - A simple, developer-friendly
+  library to create powerful Matrix bots. `MIT` `Python`
 
 ## Servers
 
