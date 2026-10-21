@@ -68,6 +68,8 @@ obvious category to fit into on the matrix.org website.
 
 Some bots are quick scripts tailored to a specific purpose.
 
+- [Remindrix](https://github.com/outarde/remindrix) - A reminder bot focused on user experience and multilingual support. `MIT` `Rust`
+
 ## Bridges
 
 ## Clients
