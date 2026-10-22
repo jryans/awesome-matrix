@@ -91,7 +91,11 @@ For a comprehensive list with many more clients along with screenshots, the
 - [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A client for GNOME
   written in Rust. ([Chat](https://matrix.to/#/#fractal:gnome.org)) `GPL-3.0`
   `Rust`
-- [Sable](https://next.sable.moe/) - A Discord-style client with apps for all major platforms and many quality-of-life features. ([Repo](https://git.sable.moe/SableClient/sable-next), [Chat](https://matrix.to/#/#sable:sable.moe)) `AGPL-3.0-or-later` `TypeScript`, `Rust`, `Svelte`
+- [Sable](https://next.sable.moe/) - A Discord-style client with apps for all
+  major platforms and many quality-of-life features.
+  ([Repo](https://git.sable.moe/SableClient/sable-next),
+  [Chat](https://matrix.to/#/#sable:sable.moe)) `AGPL-3.0-or-later`
+  `TypeScript`, `Rust`, `Svelte`
 
 ## Collaborative Documents
 
